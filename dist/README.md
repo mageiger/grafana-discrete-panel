@@ -1,9 +1,5 @@
 ## Discrete Panel
 
-[![CircleCI](https://circleci.com/gh/NatelEnergy/grafana-discrete-panel/tree/master.svg?style=svg)](https://circleci.com/gh/NatelEnergy/grafana-discrete-panel/tree/master)
-[![dependencies Status](https://david-dm.org/NatelEnergy/grafana-discrete-panel/status.svg)](https://david-dm.org/NatelEnergy/grafana-discrete-panel)
-[![devDependencies Status](https://david-dm.org/NatelEnergy/grafana-discrete-panel/dev-status.svg)](https://david-dm.org/NatelEnergy/grafana-discrete-panel?type=dev)
-
 This panel shows discrete values in a horizontal graph. This lets show state transitions clearly. It is a good
 choice to display string or boolean data
 
